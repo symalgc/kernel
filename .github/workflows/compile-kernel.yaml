@@ -148,7 +148,7 @@ jobs:
           kernel_auto: ${{ inputs.kernel_auto }}
           kernel_package: ${{ inputs.kernel_package }}
           kernel_toolchain: ${{ inputs.kernel_toolchain }}
-          kernel_sign: $NULL
+          #kernel_sign: $NULL
           kernel_config: ${{ inputs.kernel_config }}
           compress_format: ${{ inputs.compress_format }}
 
